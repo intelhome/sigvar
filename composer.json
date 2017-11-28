@@ -1,0 +1,21 @@
+{
+    "name": "sigvar/yii2-sigvar",
+    "description": "SigVar",
+    "type": "yii2-extension",
+    "keywords": "["yii2","extension","sigvar"]",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jaimbox",
+            "email": "jaimbox@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii\\sigvar\\": ""
+        }
+    }
+}
